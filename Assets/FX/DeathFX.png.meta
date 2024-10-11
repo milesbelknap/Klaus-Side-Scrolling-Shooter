@@ -1,0 +1,3296 @@
+fileFormatVersion: 2
+guid: c187a92079bc545f693bceb3f7d520ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5364401781266603493
+    second: DeathFX_1.0_2
+  - first:
+      213: -8326782789207653802
+    second: DeathFX_1.0_3
+  - first:
+      213: 9200366643231668752
+    second: DeathFX_2
+  - first:
+      213: -1582320796056746614
+    second: DeathFX_3
+  - first:
+      213: -2752262897453714295
+    second: DeathFX_4
+  - first:
+      213: 1926583758299872852
+    second: DeathFX_5
+  - first:
+      213: -7333351735879373334
+    second: DeathFX_6
+  - first:
+      213: 6687487830011782707
+    second: DeathFX_7
+  - first:
+      213: 7195284825172002048
+    second: DeathFX_8
+  - first:
+      213: -8326204762263707066
+    second: DeathFX_9
+  - first:
+      213: -8834242920534405685
+    second: DeathFX_10
+  - first:
+      213: -1697411497257765539
+    second: DeathFX_11
+  - first:
+      213: 614661181267254518
+    second: DeathFX_12
+  - first:
+      213: -1823177592193500337
+    second: DeathFX_13
+  - first:
+      213: 8859272403255304093
+    second: DeathFX_14
+  - first:
+      213: -6847092489062262633
+    second: DeathFX_15
+  - first:
+      213: -7083382465988843154
+    second: DeathFX2.0_2
+  - first:
+      213: 224812184567671699
+    second: DeathFX2.0_3
+  - first:
+      213: 2521581122491138408
+    second: DeathFX2.0_4
+  - first:
+      213: 4109431858356202700
+    second: DeathFX2.0_5
+  - first:
+      213: -7435295659198878370
+    second: DeathFX2.0_6
+  - first:
+      213: 3065652014169472471
+    second: DeathFX2.0_7
+  - first:
+      213: -1497518377495355320
+    second: DeathFX2.0_8
+  - first:
+      213: -6197585966197752813
+    second: DeathFX2.0_10
+  - first:
+      213: -4695293538806988209
+    second: DeathFX2.0_12
+  - first:
+      213: 7575671222014807844
+    second: DeathFX2.0_13
+  - first:
+      213: 8962246262618185676
+    second: DeathFX_26
+  - first:
+      213: -8282169284226007138
+    second: DeathFX_27
+  - first:
+      213: 6150690699083134529
+    second: DeathFX_28
+  - first:
+      213: 5411205205609998076
+    second: DeathFX_29
+  - first:
+      213: 8421855875548854856
+    second: DeathFX_30
+  - first:
+      213: -3084341395203391325
+    second: DeathFX_31
+  - first:
+      213: -6174017387043893688
+    second: DeathFX_32
+  - first:
+      213: -6027256741514030914
+    second: DeathFX_33
+  - first:
+      213: 4308173054620405720
+    second: DeathFX_34
+  - first:
+      213: -8632737721723736994
+    second: DeathFX_35
+  - first:
+      213: -638047020349930652
+    second: DeathFX_36
+  - first:
+      213: 3301715111214038280
+    second: DeathFX_37
+  - first:
+      213: 8204979476251722191
+    second: DeathFX_38
+  - first:
+      213: -5172493697852664161
+    second: DeathFX_39
+  - first:
+      213: -3969233039866628650
+    second: DeathFX_40
+  - first:
+      213: -1811560870518167298
+    second: DeathFX_41
+  - first:
+      213: 648144706462943094
+    second: DeathFX_42
+  - first:
+      213: -7850045343700654085
+    second: DeathFX_43
+  - first:
+      213: 6265016499168306391
+    second: DeathFX_44
+  - first:
+      213: -4201717879503561039
+    second: DeathFX_45
+  - first:
+      213: 3969186257871881720
+    second: DeathFX_46
+  - first:
+      213: 8915421868235181095
+    second: DeathFX_47
+  - first:
+      213: 8156764849467184735
+    second: DeathFX_48
+  - first:
+      213: 1089174804915725434
+    second: DeathFX_49
+  - first:
+      213: -5467978252334557585
+    second: DeathFX_50
+  - first:
+      213: -2872874096730014065
+    second: DeathFX_51
+  - first:
+      213: -8567451723486574203
+    second: DeathFX_52
+  - first:
+      213: 5423580912034187784
+    second: DeathFX_53
+  - first:
+      213: 3675439055503628285
+    second: DeathFX_54
+  - first:
+      213: 5858975852945689683
+    second: DeathFX_55
+  - first:
+      213: 8371602926149692522
+    second: DeathFX_56
+  - first:
+      213: -96293688350874793
+    second: DeathFX_57
+  - first:
+      213: -8958131316963337867
+    second: DeathFX_58
+  - first:
+      213: -2197665691815156474
+    second: DeathFX_59
+  - first:
+      213: 6682492904263673883
+    second: DeathFX_60
+  - first:
+      213: 3713475342033009377
+    second: DeathFX_61
+  - first:
+      213: -608567429384871657
+    second: DeathFX_62
+  - first:
+      213: 7014471380787274948
+    second: DeathFX_63
+  - first:
+      213: -3673895773371033719
+    second: DeathFX_64
+  - first:
+      213: 8962920707973558160
+    second: DeathFX_65
+  - first:
+      213: 1305058212317424270
+    second: DeathFX_66
+  - first:
+      213: 4337732818377524024
+    second: DeathFX_67
+  - first:
+      213: 6898662481059371728
+    second: DeathFX_68
+  - first:
+      213: -6987362648044935570
+    second: DeathFX_69
+  - first:
+      213: -938102923561429050
+    second: DeathFX_70
+  - first:
+      213: -8342267203689688152
+    second: DeathFX_71
+  - first:
+      213: 4340115073752059961
+    second: DeathFX_72
+  - first:
+      213: 7706795040525500778
+    second: DeathFX_73
+  - first:
+      213: 1887712429054836786
+    second: DeathFX_74
+  - first:
+      213: -1380014166321691565
+    second: DeathFX_75
+  - first:
+      213: -377901365848830115
+    second: DeathFX_1.0_4
+  - first:
+      213: -3501992840093805317
+    second: DeathFX_1.0_5
+  - first:
+      213: 1994294619450704604
+    second: DeDeathFX_1.0_6
+  - first:
+      213: -6154056248599382940
+    second: DeathFX_79
+  - first:
+      213: 2605462252236755915
+    second: DeathFX_1.0_7
+  - first:
+      213: -1780577692335849289
+    second: DeathFX_81
+  - first:
+      213: -939992974372915726
+    second: DeathFX_82
+  - first:
+      213: -4906291560816892440
+    second: DeathFX_83
+  - first:
+      213: -157560520903650643
+    second: DeathFX_84
+  - first:
+      213: 3046580005472281131
+    second: DeathFX_85
+  - first:
+      213: 2822005449261323597
+    second: DeathFX_86
+  - first:
+      213: -281264049888180084
+    second: DeathFX_87
+  - first:
+      213: -4747658143395179569
+    second: DeathFX_88
+  - first:
+      213: 929488465135916672
+    second: DeathFX_89
+  - first:
+      213: -6991481075104062320
+    second: DeathFX_90
+  - first:
+      213: 4368103605488578047
+    second: DeathFX_91
+  - first:
+      213: -4028603899670984947
+    second: DeathFX_92
+  - first:
+      213: 7151069182274231218
+    second: DeathFX_93
+  - first:
+      213: -6485393157126691040
+    second: DeathFX_94
+  - first:
+      213: 5363303881442109042
+    second: DeathFX_95
+  - first:
+      213: 7062878858602274216
+    second: DeathFX_96
+  - first:
+      213: 3449716752594964810
+    second: DeathFX_97
+  - first:
+      213: -1184536567755661139
+    second: DeathFX_98
+  - first:
+      213: -6806755479764482241
+    second: DeathFX_99
+  - first:
+      213: -5629823993763276892
+    second: DeathFX_100
+  - first:
+      213: -5678114295356168647
+    second: DeathFX_101
+  - first:
+      213: 7634887398974434723
+    second: DeathFX_102
+  - first:
+      213: -4961058070205291262
+    second: DeathFX_103
+  - first:
+      213: 8561983014852253916
+    second: DeathFX_104
+  - first:
+      213: -9028791623945087614
+    second: DeathFX_1.0_1
+  - first:
+      213: -5380681003926039768
+    second: DeathFX_106
+  - first:
+      213: -335205193397622490
+    second: DeathFX_107
+  - first:
+      213: -1592000086388217828
+    second: DeathFX_108
+  - first:
+      213: 6841388557832438746
+    second: DeathFX_109
+  - first:
+      213: -6145427093440636386
+    second: DeathFX_110
+  - first:
+      213: 7702397321762477709
+    second: DeathFX_111
+  - first:
+      213: -7603249347046947784
+    second: DeathFX_1.0_8
+  - first:
+      213: 490973529288511816
+    second: DeathFX2.0_1
+  - first:
+      213: -1947696146278726557
+    second: DeathFX2.0_9
+  - first:
+      213: 35068276815735909
+    second: DeathFX2.0_11
+  - first:
+      213: -2003099508463509363
+    second: DeathFX_116
+  - first:
+      213: -6334613864378805823
+    second: DeathFX_117
+  - first:
+      213: -4160304450806198704
+    second: DeathFX_118
+  - first:
+      213: -9061485060174070828
+    second: DeathFX_119
+  - first:
+      213: -9059076917714843258
+    second: DeathFX_120
+  - first:
+      213: 8937053949732457430
+    second: DeathFX_121
+  - first:
+      213: -7740065356283577337
+    second: DeathFX_122
+  - first:
+      213: -4497944267686940786
+    second: DeathFX_123
+  - first:
+      213: -378459427260926242
+    second: DeathFX_124
+  - first:
+      213: -5949102826558261268
+    second: DeathFX_125
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 15
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathFX_1.0_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed5edc8ffe227a40800000000000000
+      internalID: 5364401781266603493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_3
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652017f9b23517c80800000000000000
+      internalID: -8326782789207653802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_2
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 90
+        width: 29
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01a3d2567b44eaf70800000000000000
+      internalID: 9200366643231668752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 89
+        width: 30
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8503569e977a0ae0800000000000000
+      internalID: -1582320796056746614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_4
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 92
+        width: 35
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984b8c41a7ffdc9d0800000000000000
+      internalID: -2752262897453714295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_5
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 91
+        width: 18
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45e308f78b99cba10800000000000000
+      internalID: 1926583758299872852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_6
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 92
+        width: 3
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed6ae13373ba3a90800000000000000
+      internalID: -7333351735879373334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_7
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 0
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336a993efbabecc50800000000000000
+      internalID: 6687487830011782707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_8
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 0
+        width: 77
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 005c22e1d69cad360800000000000000
+      internalID: 7195284825172002048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_9
+      rect:
+        serializedVersion: 2
+        x: 1796
+        y: 0
+        width: 71
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6422b1202e0637c80800000000000000
+      internalID: -8326204762263707066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_10
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 6
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd890e9ed6766580800000000000000
+      internalID: -8834242920534405685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_11
+      rect:
+        serializedVersion: 2
+        x: 2032
+        y: 12
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55794c8c359178e0800000000000000
+      internalID: -1697411497257765539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_12
+      rect:
+        serializedVersion: 2
+        x: 2139
+        y: 12
+        width: 65
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fc18a67617b78800800000000000000
+      internalID: 614661181267254518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_13
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 12
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bbad6b3a5c2b6e0800000000000000
+      internalID: -1823177592193500337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_14
+      rect:
+        serializedVersion: 2
+        x: 2375
+        y: 12
+        width: 41
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f1474ff4572fa70800000000000000
+      internalID: 8859272403255304093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_15
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 41
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 798d23d98ad3af0a0800000000000000
+      internalID: -6847092489062262633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_2
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 6
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6921823d25c2bd90800000000000000
+      internalID: -7083382465988843154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_3
+      rect:
+        serializedVersion: 2
+        x: 3988
+        y: 12
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39be552ad71be1300800000000000000
+      internalID: 224812184567671699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_4
+      rect:
+        serializedVersion: 2
+        x: 4100
+        y: 12
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8614a66cba47ef220800000000000000
+      internalID: 2521581122491138408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_5
+      rect:
+        serializedVersion: 2
+        x: 4213
+        y: 12
+        width: 59
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccaef1a082a70930800000000000000
+      internalID: 4109431858356202700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_6
+      rect:
+        serializedVersion: 2
+        x: 4319
+        y: 12
+        width: 65
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d6279edf580d890800000000000000
+      internalID: -7435295659198878370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_7
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 12
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd388da3426b8a20800000000000000
+      internalID: 3065652014169472471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_8
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 12
+        width: 61
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84025c848feb73be0800000000000000
+      internalID: -1497518377495355320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_10
+      rect:
+        serializedVersion: 2
+        x: 4650
+        y: 12
+        width: 60
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c36d36660cdf9a0800000000000000
+      internalID: -6197585966197752813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_12
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 46
+        width: 47
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4209373767f6deb0800000000000000
+      internalID: -4695293538806988209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_13
+      rect:
+        serializedVersion: 2
+        x: 4797
+        y: 0
+        width: 22
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f875bb6d0322960800000000000000
+      internalID: 7575671222014807844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_26
+      rect:
+        serializedVersion: 2
+        x: 5199
+        y: 12
+        width: 47
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfdde8ed7b406c70800000000000000
+      internalID: 8962246262618185676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_27
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 6
+        width: 60
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9fbe04bae2df0d80800000000000000
+      internalID: -8282169284226007138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_28
+      rect:
+        serializedVersion: 2
+        x: 5418
+        y: 0
+        width: 71
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14636226a94ab5550800000000000000
+      internalID: 6150690699083134529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_29
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 0
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf6e027f676781b40800000000000000
+      internalID: 5411205205609998076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_30
+      rect:
+        serializedVersion: 2
+        x: 5642
+        y: 0
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a30a34c4170e470800000000000000
+      internalID: 8421855875548854856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_31
+      rect:
+        serializedVersion: 2
+        x: 5760
+        y: 46
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a08ed4b7d73235d0800000000000000
+      internalID: -3084341395203391325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_32
+      rect:
+        serializedVersion: 2
+        x: 5772
+        y: 0
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ec928d5eb715aa0800000000000000
+      internalID: -6174017387043893688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_33
+      rect:
+        serializedVersion: 2
+        x: 5902
+        y: 35
+        width: 30
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb05af76de1ea5ca0800000000000000
+      internalID: -6027256741514030914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_34
+      rect:
+        serializedVersion: 2
+        x: 6280
+        y: 12
+        width: 77
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df0f874194b9cb30800000000000000
+      internalID: 4308173054620405720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_35
+      rect:
+        serializedVersion: 2
+        x: 6393
+        y: 12
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5caa81c7ca523880800000000000000
+      internalID: -8632737721723736994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_36
+      rect:
+        serializedVersion: 2
+        x: 6505
+        y: 6
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463cb029d933527f0800000000000000
+      internalID: -638047020349930652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_37
+      rect:
+        serializedVersion: 2
+        x: 6617
+        y: 6
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80db371866c02dd20800000000000000
+      internalID: 3301715111214038280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_38
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 6
+        width: 88
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1ca5f9c51fdd170800000000000000
+      internalID: 8204979476251722191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_39
+      rect:
+        serializedVersion: 2
+        x: 6830
+        y: 35
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f969b88036c9738b0800000000000000
+      internalID: -5172493697852664161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_40
+      rect:
+        serializedVersion: 2
+        x: 6865
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5710484937ae8c0800000000000000
+      internalID: -3969233039866628650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_41
+      rect:
+        serializedVersion: 2
+        x: 6942
+        y: 35
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef864cf7cfa0cd6e0800000000000000
+      internalID: -1811560870518167298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_42
+      rect:
+        serializedVersion: 2
+        x: 6972
+        y: 58
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67706cf2d2caef800800000000000000
+      internalID: 648144706462943094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_43
+      rect:
+        serializedVersion: 2
+        x: 7090
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7630ae9590f0390800000000000000
+      internalID: -7850045343700654085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_44
+      rect:
+        serializedVersion: 2
+        x: 7202
+        y: 58
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d463e0005fc1f650800000000000000
+      internalID: 6265016499168306391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_45
+      rect:
+        serializedVersion: 2
+        x: 7308
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be58c9a9df70b5c0800000000000000
+      internalID: -4201717879503561039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_46
+      rect:
+        serializedVersion: 2
+        x: 7716
+        y: 12
+        width: 59
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5c0d33fd1651730800000000000000
+      internalID: 3969186257871881720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_47
+      rect:
+        serializedVersion: 2
+        x: 7822
+        y: 6
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c48e604f0f9bb70800000000000000
+      internalID: 8915421868235181095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_48
+      rect:
+        serializedVersion: 2
+        x: 7935
+        y: 0
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5652e80a66a23170800000000000000
+      internalID: 8156764849467184735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_49
+      rect:
+        serializedVersion: 2
+        x: 8041
+        y: 0
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ae41e6b68d1f00800000000000000
+      internalID: 1089174804915725434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_50
+      rect:
+        serializedVersion: 2
+        x: 8153
+        y: 0
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f66990600c6dd14b0800000000000000
+      internalID: -5467978252334557585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_51
+      rect:
+        serializedVersion: 2
+        x: 8260
+        y: 0
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e7cfbea308128d0800000000000000
+      internalID: -2872874096730014065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_52
+      rect:
+        serializedVersion: 2
+        x: 8366
+        y: 6
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589464fbc0c4a1980800000000000000
+      internalID: -8567451723486574203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_53
+      rect:
+        serializedVersion: 2
+        x: 8478
+        y: 6
+        width: 95
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a0368aa1e644b40800000000000000
+      internalID: 5423580912034187784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_54
+      rect:
+        serializedVersion: 2
+        x: 8579
+        y: 6
+        width: 106
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df714e00958c10330800000000000000
+      internalID: 3675439055503628285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_55
+      rect:
+        serializedVersion: 2
+        x: 8691
+        y: 6
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c4b6efe734f4150800000000000000
+      internalID: 5858975852945689683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_56
+      rect:
+        serializedVersion: 2
+        x: 8797
+        y: 6
+        width: 107
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ce5c5b188ed2470800000000000000
+      internalID: 8371602926149692522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_57
+      rect:
+        serializedVersion: 2
+        x: 8927
+        y: 6
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753ebbf8665e9aef0800000000000000
+      internalID: -96293688350874793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_58
+      rect:
+        serializedVersion: 2
+        x: 9051
+        y: 58
+        width: 42
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579191987035ea380800000000000000
+      internalID: -8958131316963337867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_59
+      rect:
+        serializedVersion: 2
+        x: 9376
+        y: 12
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6056b4072b25081e0800000000000000
+      internalID: -2197665691815156474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_60
+      rect:
+        serializedVersion: 2
+        x: 9483
+        y: 12
+        width: 76
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1864bc14ebfcbc50800000000000000
+      internalID: 6682492904263673883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_61
+      rect:
+        serializedVersion: 2
+        x: 9595
+        y: 17
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eabc04162ae88330800000000000000
+      internalID: 3713475342033009377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_62
+      rect:
+        serializedVersion: 2
+        x: 9701
+        y: 17
+        width: 77
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71164a5b52fed87f0800000000000000
+      internalID: -608567429384871657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_63
+      rect:
+        serializedVersion: 2
+        x: 9814
+        y: 17
+        width: 76
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c428fa7e88685160800000000000000
+      internalID: 7014471380787274948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_64
+      rect:
+        serializedVersion: 2
+        x: 9920
+        y: 17
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987196e5243b30dc0800000000000000
+      internalID: -3673895773371033719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_65
+      rect:
+        serializedVersion: 2
+        x: 10032
+        y: 17
+        width: 77
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fa1c475e0b26c70800000000000000
+      internalID: 8962920707973558160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_66
+      rect:
+        serializedVersion: 2
+        x: 10144
+        y: 23
+        width: 71
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ae264978f7c1210800000000000000
+      internalID: 1305058212317424270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_67
+      rect:
+        serializedVersion: 2
+        x: 10682
+        y: 12
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83342f91409b23c30800000000000000
+      internalID: 4337732818377524024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_68
+      rect:
+        serializedVersion: 2
+        x: 10800
+        y: 6
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dadbd0d9f8fcbf50800000000000000
+      internalID: 6898662481059371728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_69
+      rect:
+        serializedVersion: 2
+        x: 10912
+        y: 6
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66e27631b6e70f90800000000000000
+      internalID: -6987362648044935570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_70
+      rect:
+        serializedVersion: 2
+        x: 11019
+        y: 6
+        width: 94
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c79d5e7c503bf2f0800000000000000
+      internalID: -938102923561429050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_71
+      rect:
+        serializedVersion: 2
+        x: 11143
+        y: 6
+        width: 77
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a35fae6d205a3c80800000000000000
+      internalID: -8342267203689688152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_72
+      rect:
+        serializedVersion: 2
+        x: 11255
+        y: 0
+        width: 77
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9305f472aaf2b3c30800000000000000
+      internalID: 4340115073752059961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_73
+      rect:
+        serializedVersion: 2
+        x: 11373
+        y: 6
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61c34bc14904fa60800000000000000
+      internalID: 7706795040525500778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_74
+      rect:
+        serializedVersion: 2
+        x: 11486
+        y: 12
+        width: 65
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23047e3e370823a10800000000000000
+      internalID: 1887712429054836786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_75
+      rect:
+        serializedVersion: 2
+        x: 11604
+        y: 12
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35483676d6439dce0800000000000000
+      internalID: -1380014166321691565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_4
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 101
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5f0270c5bc61caf0800000000000000
+      internalID: -377901365848830115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf45f38f01c666fc0800000000000000
+      internalID: -3501992840093805317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeDeathFX_1.0_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 0
+        width: 91
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd205d1e3682dab10800000000000000
+      internalID: 1994294619450704604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_79
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 90
+        width: 21
+        height: 3
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464f57e8276689aa0800000000000000
+      internalID: -6154056248599382940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_7
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1
+        width: 95
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc3d2443d16782420800000000000000
+      internalID: 2605462252236755915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_81
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 91
+        width: 9
+        height: 2
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b04651d50e1a47e0800000000000000
+      internalID: -1780577692335849289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_82
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 88
+        width: 21
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5b32fbe5974f2f0800000000000000
+      internalID: -939992974372915726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_83
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 92
+        width: 8
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e52301f1d959ebb0800000000000000
+      internalID: -4906291560816892440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_84
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 92
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da299e08a8b30ddf0800000000000000
+      internalID: -157560520903650643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_85
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 0
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22abfd9f50a74a20800000000000000
+      internalID: 3046580005472281131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_86
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 46
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4510752107c92720800000000000000
+      internalID: 2822005449261323597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_87
+      rect:
+        serializedVersion: 2
+        x: 2771
+        y: 6
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c35a36dfb81cf0800000000000000
+      internalID: -281264049888180084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_88
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 0
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc390ff921eec1eb0800000000000000
+      internalID: -4747658143395179569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_89
+      rect:
+        serializedVersion: 2
+        x: 2990
+        y: 0
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 086df3b95d436ec00800000000000000
+      internalID: 929488465135916672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_90
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 0
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0946e80310549fe90800000000000000
+      internalID: -6991481075104062320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_91
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 12
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffdef33061f9e9c30800000000000000
+      internalID: 4368103605488578047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_92
+      rect:
+        serializedVersion: 2
+        x: 3320
+        y: 12
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d078b5309168718c0800000000000000
+      internalID: -4028603899670984947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_93
+      rect:
+        serializedVersion: 2
+        x: 3433
+        y: 46
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbd2b58883bd3360800000000000000
+      internalID: 7151069182274231218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_94
+      rect:
+        serializedVersion: 2
+        x: 5081
+        y: 17
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027e6b0e8414ff5a0800000000000000
+      internalID: -6485393157126691040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_95
+      rect:
+        serializedVersion: 2
+        x: 6174
+        y: 12
+        width: 65
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276a4d3d6784e6a40800000000000000
+      internalID: 5363303881442109042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_96
+      rect:
+        serializedVersion: 2
+        x: 6871
+        y: 12
+        width: 53
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adda92b6e2640260800000000000000
+      internalID: 7062878858602274216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_97
+      rect:
+        serializedVersion: 2
+        x: 6983
+        y: 12
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41132eeb1bdfdf20800000000000000
+      internalID: 3449716752594964810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_98
+      rect:
+        serializedVersion: 2
+        x: 7054
+        y: 46
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0a67f744eaf8fe0800000000000000
+      internalID: -1184536567755661139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_99
+      rect:
+        serializedVersion: 2
+        x: 7167
+        y: 46
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c1b374fb8981a0800000000000000
+      internalID: -6806755479764482241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_100
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 35
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7d4cfd7e8ded1b0800000000000000
+      internalID: -5629823993763276892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_101
+      rect:
+        serializedVersion: 2
+        x: 7279
+        y: 46
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9366a3fd1294331b0800000000000000
+      internalID: -5678114295356168647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_102
+      rect:
+        serializedVersion: 2
+        x: 7598
+        y: 17
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad2af353a194f960800000000000000
+      internalID: 7634887398974434723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_103
+      rect:
+        serializedVersion: 2
+        x: 9063
+        y: 23
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 205245f48f7c62bb0800000000000000
+      internalID: -4961058070205291262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_104
+      rect:
+        serializedVersion: 2
+        x: 11734
+        y: 35
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8523d403642d670800000000000000
+      internalID: 8561983014852253916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 6
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2851bb7cad943b280800000000000000
+      internalID: -9028791623945087614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_106
+      rect:
+        serializedVersion: 2
+        x: 3439
+        y: 12
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 823db4f822bf355b0800000000000000
+      internalID: -5380681003926039768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_107
+      rect:
+        serializedVersion: 2
+        x: 7108
+        y: 35
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292ba017ac195bf0800000000000000
+      internalID: -335205193397622490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_108
+      rect:
+        serializedVersion: 2
+        x: 7326
+        y: 35
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1860703b5418e9e0800000000000000
+      internalID: -1592000086388217828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_109
+      rect:
+        serializedVersion: 2
+        x: 9081
+        y: 6
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3460865ae71fe50800000000000000
+      internalID: 6841388557832438746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_110
+      rect:
+        serializedVersion: 2
+        x: 11710
+        y: 23
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ad86e4e9e07baa0800000000000000
+      internalID: -6145427093440636386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_111
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 6
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86929a1e8964ea60800000000000000
+      internalID: 7702397321762477709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_1.0_8
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 6
+        width: 90
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834cb8aa005db7690800000000000000
+      internalID: -7603249347046947784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_1
+      rect:
+        serializedVersion: 2
+        x: 3769
+        y: 0
+        width: 24
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8419c57d2d940d600800000000000000
+      internalID: 490973529288511816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_9
+      rect:
+        serializedVersion: 2
+        x: 4641
+        y: 0
+        width: 24
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364c8ae9ca468f4e0800000000000000
+      internalID: -1947696146278726557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX2.0_11
+      rect:
+        serializedVersion: 2
+        x: 4719
+        y: 0
+        width: 24
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56cac7679669c7000800000000000000
+      internalID: 35068276815735909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_116
+      rect:
+        serializedVersion: 2
+        x: 5896
+        y: 6
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80e5442c9f8334e0800000000000000
+      internalID: -2003099508463509363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_117
+      rect:
+        serializedVersion: 2
+        x: 7102
+        y: 12
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1df68a04ee618a0800000000000000
+      internalID: -6334613864378805823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_118
+      rect:
+        serializedVersion: 2
+        x: 7214
+        y: 12
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e483ce421a346c0800000000000000
+      internalID: -4160304450806198704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_119
+      rect:
+        serializedVersion: 2
+        x: 7320
+        y: 12
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dbb0daf8532f3280800000000000000
+      internalID: -9061485060174070828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_120
+      rect:
+        serializedVersion: 2
+        x: 9040
+        y: 12
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6898aa65a81b74280800000000000000
+      internalID: -9059076917714843258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_121
+      rect:
+        serializedVersion: 2
+        x: 9282
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db0e4c773bc60c70800000000000000
+      internalID: 8937053949732457430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_122
+      rect:
+        serializedVersion: 2
+        x: 10458
+        y: 12
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cf86c2193c59490800000000000000
+      internalID: -7740065356283577337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_123
+      rect:
+        serializedVersion: 2
+        x: 10570
+        y: 12
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fe30905871491c0800000000000000
+      internalID: -4497944267686940786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_124
+      rect:
+        serializedVersion: 2
+        x: 11491
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6f634f7217fbaf0800000000000000
+      internalID: -378459427260926242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathFX_125
+      rect:
+        serializedVersion: 2
+        x: 11604
+        y: 6
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7f8babf7a807da0800000000000000
+      internalID: -5949102826558261268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      DeathFX_64: -3673895773371033719
+      DeathFX_120: -9059076917714843258
+      DeathFX_95: 5363303881442109042
+      DeathFX2.0_10: -6197585966197752813
+      DeathFX_38: 8204979476251722191
+      DeathFX_26: 8962246262618185676
+      DeathFX_42: 648144706462943094
+      DeathFX_47: 8915421868235181095
+      DeathFX_1.0_1: -9028791623945087614
+      DeathFX_125: -5949102826558261268
+      DeathFX_124: -378459427260926242
+      DeathFX_57: -96293688350874793
+      DeathFX_73: 7706795040525500778
+      DeathFX_32: -6174017387043893688
+      DeathFX_14: 8859272403255304093
+      DeathFX_45: -4201717879503561039
+      DeathFX_62: -608567429384871657
+      DeathFX_103: -4961058070205291262
+      DeathFX2.0_7: 3065652014169472471
+      DeathFX_1.0_2: 5364401781266603493
+      DeathFX_118: -4160304450806198704
+      DeathFX2.0_12: -4695293538806988209
+      DeathFX_98: -1184536567755661139
+      DeathFX_1.0_3: -8326782789207653802
+      DeathFX2.0_9: -1947696146278726557
+      DeathFX_46: 3969186257871881720
+      DeathFX_67: 4337732818377524024
+      DeathFX_34: 4308173054620405720
+      DeathFX_3: -1582320796056746614
+      DeathFX_122: -7740065356283577337
+      DeathFX_68: 6898662481059371728
+      DeathFX_100: -5629823993763276892
+      DeathFX_71: -8342267203689688152
+      DeathFX_93: 7151069182274231218
+      DeathFX_13: -1823177592193500337
+      DeathFX_61: 3713475342033009377
+      DeathFX_12: 614661181267254518
+      DeathFX_97: 3449716752594964810
+      DeathFX_2: 9200366643231668752
+      DeathFX_7: 6687487830011782707
+      DeathFX_81: -1780577692335849289
+      DeathFX_58: -8958131316963337867
+      DeathFX_89: 929488465135916672
+      DeathFX_75: -1380014166321691565
+      DeathFX_35: -8632737721723736994
+      DeathFX_111: 7702397321762477709
+      DeathFX2.0_3: 224812184567671699
+      DeathFX_99: -6806755479764482241
+      DeathFX_110: -6145427093440636386
+      DeathFX_84: -157560520903650643
+      DeathFX_91: 4368103605488578047
+      DeathFX_106: -5380681003926039768
+      DeathFX_40: -3969233039866628650
+      DeDeathFX_1.0_6: 1994294619450704604
+      DeathFX_117: -6334613864378805823
+      DeathFX_104: 8561983014852253916
+      DeathFX_59: -2197665691815156474
+      DeathFX_28: 6150690699083134529
+      DeathFX_116: -2003099508463509363
+      DeathFX_109: 6841388557832438746
+      DeathFX2.0_5: 4109431858356202700
+      DeathFX_11: -1697411497257765539
+      DeathFX_9: -8326204762263707066
+      DeathFX_70: -938102923561429050
+      DeathFX_31: -3084341395203391325
+      DeathFX_60: 6682492904263673883
+      DeathFX_107: -335205193397622490
+      DeathFX_1.0_5: -3501992840093805317
+      DeathFX2.0_2: -7083382465988843154
+      DeathFX_101: -5678114295356168647
+      DeathFX_39: -5172493697852664161
+      DeathFX_29: 5411205205609998076
+      DeathFX_1.0_4: -377901365848830115
+      DeathFX_82: -939992974372915726
+      DeathFX_65: 8962920707973558160
+      DeathFX_72: 4340115073752059961
+      DeathFX_79: -6154056248599382940
+      DeathFX_30: 8421855875548854856
+      DeathFX_86: 2822005449261323597
+      DeathFX_49: 1089174804915725434
+      DeathFX_87: -281264049888180084
+      DeathFX2.0_11: 35068276815735909
+      DeathFX_33: -6027256741514030914
+      DeathFX_88: -4747658143395179569
+      DeathFX_94: -6485393157126691040
+      DeathFX_56: 8371602926149692522
+      DeathFX_15: -6847092489062262633
+      DeathFX_123: -4497944267686940786
+      DeathFX_27: -8282169284226007138
+      DeathFX_1.0_8: -7603249347046947784
+      DeathFX_44: 6265016499168306391
+      DeathFX_5: 1926583758299872852
+      DeathFX_66: 1305058212317424270
+      DeathFX_4: -2752262897453714295
+      DeathFX_48: 8156764849467184735
+      DeathFX_102: 7634887398974434723
+      DeathFX_108: -1592000086388217828
+      DeathFX_6: -7333351735879373334
+      DeathFX_55: 5858975852945689683
+      DeathFX_50: -5467978252334557585
+      DeathFX_51: -2872874096730014065
+      DeathFX_92: -4028603899670984947
+      DeathFX_121: 8937053949732457430
+      DeathFX2.0_6: -7435295659198878370
+      DeathFX_119: -9061485060174070828
+      DeathFX_53: 5423580912034187784
+      DeathFX_8: 7195284825172002048
+      DeathFX_43: -7850045343700654085
+      DeathFX_85: 3046580005472281131
+      DeathFX_96: 7062878858602274216
+      DeathFX_74: 1887712429054836786
+      DeathFX2.0_1: 490973529288511816
+      DeathFX_54: 3675439055503628285
+      DeathFX_83: -4906291560816892440
+      DeathFX_10: -8834242920534405685
+      DeathFX_52: -8567451723486574203
+      DeathFX_90: -6991481075104062320
+      DeathFX_36: -638047020349930652
+      DeathFX2.0_4: 2521581122491138408
+      DeathFX_37: 3301715111214038280
+      DeathFX_69: -6987362648044935570
+      DeathFX_63: 7014471380787274948
+      DeathFX_1.0_7: 2605462252236755915
+      DeathFX2.0_8: -1497518377495355320
+      DeathFX_41: -1811560870518167298
+      DeathFX2.0_13: 7575671222014807844
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
